@@ -1,0 +1,132 @@
+body {
+    background: #DFFEEA;
+}
+
+header {
+    background: rgb(51, 48, 46);
+    height: 80px;
+    width: 100%;
+}
+
+.headerList {
+    list-style-type: none;
+    display: inline;
+}
+
+.header-left-a-tag {
+    text-decoration: none;
+    padding: 35px 15px 29px 15px;
+    color: #FA6224;
+    
+    float: left;
+    font-weight: 500;
+    font-family: "GT America", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.header-left-a-tag:hover {
+    background: black;
+    border-bottom: 6px solid #FBA57E;
+}
+
+.header-a-tag-image {
+    padding: 0px 20px 0px 20px;
+    margin: 0px 20px 0px 60px;
+    float: left;
+}
+
+#header-log-in {
+    text-decoration: none;
+    padding: 20px 25px 20px 25px;
+    margin: 10px 10px 0px 0px;
+    color: #FA6224;
+    float: right;
+    font-family: "GT America", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    border-style: solid;
+    border-width: 2px;
+
+}
+
+#header-log-in:hover {
+    background: #DFFEEA;
+}
+
+#header-get-started {
+    text-decoration: none;
+    padding: 24px 25px 20px 25px;
+    margin: 10px 50px 0px 0px;
+    color: white;
+    float: right;
+    background-color: blue;
+    font-family: "GT America", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+
+}
+
+#header-get-started:hover {
+    background: #FA6224;
+}
+
+.main-page-image {
+    width: 500px;
+    height: 180px
+}
+
+.main-page-image-div {
+    text-align: center;
+}
+
+.headLine {
+    text-align: center;
+    font-size: 6rem;
+    font-family: "GT America", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #FA6224;
+    font-weight: 900;
+}
+
+.subHead {
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    margin: 20px 0px 0px 0px;
+    font-size: 20px;
+    background: rgb(51, 48, 46);
+}
+
+#subHead-p-one {
+    color: white;
+    padding: 20px 0px 10px 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+#subHead-p-two {
+    color: white;
+    padding: 20px 0px 30px 0px;
+    margin: 20px 0px 0px 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.get-started-button-div {
+    text-align: center;
+    margin: 60px 0px 0px 0px;
+}
+
+.get-started-button {
+    text-decoration: none;
+    padding: 40px 60px 40px 60px;
+    color: white;
+    background-color: blue;
+    font-family: "GT America", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 900;
+    font-size: 2rem;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+}
+
+.get-started-button:hover {
+    background: #FA6224;
+}
